@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>206775040380-fq1i9thtih0nggune8fpsd1oeh1rs84n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.206775040380-fq1i9thtih0nggune8fpsd1oeh1rs84n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAyZRtyQ8TS60PFkh5-734A-2T-ZuFU2bE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>206775040380</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.eco.nestview.nestview</string>
+	<key>PROJECT_ID</key>
+	<string>nestview-bb13b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nestview-bb13b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:206775040380:ios:94d1970108a0ddea06ccf9</string>
+	<key>DATABASE_URL</key>
+	<string>https://nestview-bb13b-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

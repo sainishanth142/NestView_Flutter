@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "206775040380",
+    "firebase_url": "https://nestview-bb13b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nestview-bb13b",
+    "storage_bucket": "nestview-bb13b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206775040380:android:c30acfb313d0ba3e06ccf9",
+        "android_client_info": {
+          "package_name": "com.eco.nestview.nestview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206775040380-kgclk15jkc7dc8npp29lskvsnhf65qod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWUPDr8iPlLquNJgF8fJD1NRmTZS6OFgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206775040380-kgclk15jkc7dc8npp29lskvsnhf65qod.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "206775040380-fq1i9thtih0nggune8fpsd1oeh1rs84n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eco.nestview.nestview"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206775040380:android:2d25d6005769384806ccf9",
+        "android_client_info": {
+          "package_name": "com.testapp.test.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206775040380-kgclk15jkc7dc8npp29lskvsnhf65qod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWUPDr8iPlLquNJgF8fJD1NRmTZS6OFgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206775040380-kgclk15jkc7dc8npp29lskvsnhf65qod.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "206775040380-fq1i9thtih0nggune8fpsd1oeh1rs84n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eco.nestview.nestview"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
